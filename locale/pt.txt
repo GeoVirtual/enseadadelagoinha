@@ -1,0 +1,29 @@
+#: locale=pt
+
+## Media
+
+### Title
+panorama_56006EAB_5CBE_2140_41CB_9D39DF9D6ED0.label = DJI_0385
+album_4F36D452_5CC6_21C0_41B3_E7937B252C6D_0.label = Planta
+album_5103D5B0_5CC6_2340_41A8_67AF071E1064_0.label = Planta
+album_4F0C428F_5CC9_E140_41A0_1FE997E2B95D_0.label = Planta
+album_49C95672_5CC6_21C0_41C0_3204173717A6_0.label = Planta
+album_4F0C428F_5CC9_E140_41A0_1FE997E2B95D.label = Álbum de Fotos Planta
+album_5103D5B0_5CC6_2340_41A8_67AF071E1064.label = Álbum de Fotos Planta
+album_49C95672_5CC6_21C0_41C0_3204173717A6.label = Álbum de Fotos Planta
+album_4F36D452_5CC6_21C0_41B3_E7937B252C6D.label = Álbum de Fotos Planta
+
+## Skin
+
+### Image
+Image_4F3124B2_5CFA_6140_41BC_AAC770616AFA_mobile.url = skin/Image_4F3124B2_5CFA_6140_41BC_AAC770616AFA_mobile_pt.png
+Image_4F3124B2_5CFA_6140_41BC_AAC770616AFA.url = skin/Image_4F3124B2_5CFA_6140_41BC_AAC770616AFA_pt.png
+Image_4FC4A048_5CFA_61C0_41D1_AD515AD132BD_mobile.url = skin/Image_4FC4A048_5CFA_61C0_41D1_AD515AD132BD_mobile_pt.png
+Image_4FC4A048_5CFA_61C0_41D1_AD515AD132BD.url = skin/Image_4FC4A048_5CFA_61C0_41D1_AD515AD132BD_pt.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Enseada de Lagoinha
